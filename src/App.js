@@ -11,7 +11,7 @@ function App() {
       <Helmet>
         <meta
           name="description"
-          content="Coffee is good is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
+          content="Coffee22 is good is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
         />
         <meta
           name="keywords"
