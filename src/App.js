@@ -11,11 +11,7 @@ function App() {
       <Helmet>
         <meta
           name="description"
-<<<<<<< Updated upstream
           content="Coffe is good is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
-=======
-          content="222 coffee is good is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
->>>>>>> Stashed changes
         />
         <meta
           name="keywords"
